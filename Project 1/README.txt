@@ -1,0 +1,2 @@
+'run.py' allows for simple command line usage by specifying first the directory wherein all the datasets are found, and a second (optional) argument to specifiy the holdout partition amount. It then prints out evaluation metrics onto standard output.
+The notebook '2019S1-proj1-jonathan-reich.ipynb' has the same functions as in 'run.py' but also contains the answers to assignment questions in markdown cells, and should display the evaluation metrics in one of the cells above the answers.
